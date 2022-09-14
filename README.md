@@ -2,33 +2,10 @@
 ## Installation 
 First:  Clone this repository
 
-    git clone https://github.com/broadinstitute/PhylogicNDT.git
+    git clone https://github.com/SViswanathanLab/PhylogicNDT
     cd PhylogicNDT
 
 Then either :
-	
-### Manual Install 
-Install python 2.7, R (optional) and required packages 
-For debian:
-
-    apt-get install python-pip build-essential python-dev r-base r-base-dev git graphviz libgraphviz-dev
-
-
-Install setuptools and wheel
-
-	pip install setuptools wheel
-	
-Install required packages 
-
-	pip install -r req
-	
-Install scipy, matplotlib, and pandas (these versions are recommended) 
-
-	pip install pandas==0.19.2 scipy==1.0.0 matplotlib==2.0.0
-	pip install -e git+https://github.com/rmcgibbo/logsumexp.git#egg=sselogsumexp (for faster compute)
-
-
-
 
 ### Docker Install
 Install docker from https://www.docker.com/community-edition#/download
@@ -43,7 +20,6 @@ If running from the docker, first run:
 
 	docker run -i -t phylogicndt
 	cd phylogicndt
-
 
 ### Clustering 
 
