@@ -13,7 +13,7 @@ Install docker from https://www.docker.com/community-edition#/download
 	docker build --tag phylogicndt . 
 
 ## Using the Package
-
+    chmod +x PhylogicNDT.py 
     ./PhylogicNDT.py --help
 
 If running from the docker, first run:
