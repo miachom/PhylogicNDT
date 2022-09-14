@@ -18,8 +18,9 @@ Install docker from https://www.docker.com/community-edition#/download
 
 If running from the docker, first run:
 
-	docker run -i -t phylogicndt
+	docker run -it -v /path/to/PhylogicNDT:/phylogicndt phylogicndt
 	cd phylogicndt
+This docker run is interactive and the volume is mounted to your local path to PhylogicNDT repository and the phylogicndt directory inside the docker container.
 
 ### Clustering 
 
