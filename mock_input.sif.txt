@@ -1,0 +1,5 @@
+sample_id	maf_fn	seg_fn	purity
+B_TRCC_18_Tumor	../phylo_files/BTRCC18_maf_tab.txt	../phylo_files/phylo_seg/B_TRCC_18_Tumor.txt	0.849
+LeftMedLNTum_1	../phylo_files/BTRCC18_maf_tab.txt	../phylo_files/phylo_seg/LeftMedLNTum_1.txt	0.76
+LiverTum_1	../phylo_files/BTRCC18_maf_tab.txt	../phylo_files/phylo_seg/LiverTum_1.txt	0.877
+LiverTum_2	../phylo_files/BTRCC18_maf_tab.txt	../phylo_files/phylo_seg/LiverTum_2.txt	0.836
