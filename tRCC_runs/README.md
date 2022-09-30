@@ -1,4 +1,4 @@
-# Input processing for tRCC samples 
+# Input files processing for tRCC samples 
 
 ## Pre-processing
 
