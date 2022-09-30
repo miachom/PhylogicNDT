@@ -1,4 +1,4 @@
-## This describes about the input files processing for tRCC samples
+# Input processing for tRCC samples 
 
 ## Pre-processing
 
@@ -13,9 +13,13 @@
 
 Make sure that the column headings are exactly the same to what PhylogicNDT example data or else there will be error while running!
 
+# Example run
+
 ## Clustering and calculating CCFs
 
 `./PhylogicNDT.py Cluster -i your_run_name -ni 1000 -sif /path/to/.sif --maf_input_type calc_ccf`
+
+This generates files such as "mut_ccfs.txt" and "cluster_ccfs.txt" reuired for building trees
 
 
 ## Building trees
