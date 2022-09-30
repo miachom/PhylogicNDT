@@ -1,0 +1,10 @@
+## Clustering and calculating CCFs
+
+`./PhylogicNDT.py Cluster -i your_run_name -ni 1000 -sif /path/to/.sif --maf_input_type calc_ccf`
+
+
+
+
+## Building trees
+
+`./PhylogicNDT.py BuildTree -i your_run_name -ni 1000 -sif /path/to/.sif -m /path/to/mut_ccfs.txt -c /path/to/cluster_ccfs.txt`
