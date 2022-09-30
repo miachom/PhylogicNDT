@@ -13,7 +13,7 @@
 
 Make sure that the column headings are exactly the same to what PhylogicNDT example data or else there will be error while running!
 
-# Example run
+# Example run with 1000 iterations
 
 ## Clustering and calculating CCFs
 
