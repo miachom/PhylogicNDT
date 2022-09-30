@@ -1,0 +1,15 @@
+sample_id	maf_fn	seg_fn	purity	timepoint
+B_TRCC_18_Tumor	/phylo_files/phylo_mafs/mafB_TRCC_18_Tumor.txt		0.849	0
+LeftMedLNTum_1	/phylo_files/phylo_mafs/mafLeftMedLNTum_1.txt		0.76	0
+LiverTum_1	/phylo_files/phylo_mafs/mafLiverTum_1.txt		0.877	0
+LiverTum_2	/phylo_files/phylo_mafs/mafLiverTum_2.txt		0.836	0
+LiverTum_3	/phylo_files/phylo_mafs/mafLiverTum_3.txt		0.8571	0
+LiverTum_4	/phylo_files/phylo_mafs/mafLiverTum_4.txt		0.9019	0
+LiverTum_5	/phylo_files/phylo_mafs/mafLiverTum_5.txt		0.78	0
+LiverTum_6	/phylo_files/phylo_mafs/mafLiverTum_6.txt		0.84	0
+LungPlTum_1	/phylo_files/phylo_mafs/mafLungPlTum_1.txt		0.54	0
+LungPlTum_2	/phylo_files/phylo_mafs/mafLungPlTum_2.txt		0.36	0
+LungPlTum_3	/phylo_files/phylo_mafs/mafLungPlTum_3.txt		0.46	0
+RPLNTum_1	/phylo_files/phylo_mafs/mafRPLNTum_1.txt		0.9	0
+RPLNTum_2	/phylo_files/phylo_mafs/mafRPLNTum_2.txt		0.62	0
+RPLNTum_3	/phylo_files/phylo_mafs/mafRPLNTum_3.txt		0.7	0
